@@ -1,4 +1,4 @@
-[![Python package](https://github.com/Ellmen/ci-course/actions/workflows/python-package.yml/badge.svg)](https://github.com/Ellmen/ci-course/actions/workflows/python-package.yml)
+[![Test package on multiple operating systems](https://github.com/Ellmen/ci-course/actions/workflows/python-package.yml/badge.svg)](https://github.com/Ellmen/ci-course/actions/workflows/python-package.yml)
 
 # OxRSE Continuous Integration course
 
