@@ -14,6 +14,9 @@ class TestFunctionality(unittest.TestCase):
         self.assertEqual(ci_course.minimum(1.2, 2.3), 1.2)
         self.assertEqual(ci_course.minimum(-1.2, -3), -3)
 
+    def test_minimum_nonnumber(self):
+        self.assertEqual(ci_course.minimum("Blah"), None)
+
 
 if __name__ == '__main__':
     unittest.main()
