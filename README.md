@@ -1,4 +1,5 @@
 [![Test package on multiple operating systems](https://github.com/Ellmen/ci-course/actions/workflows/python-package.yml/badge.svg)](https://github.com/Ellmen/ci-course/actions/workflows/python-package.yml)
+[![codecov](https://codecov.io/gh/Ellmen/ci-course/branch/main/graph/badge.svg?token=DVSGG8JMVE)](https://codecov.io/gh/Ellmen/ci-course)
 
 # OxRSE Continuous Integration course
 
